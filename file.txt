@@ -1,0 +1,7 @@
+Hello ,I am a read file created to practice file handling in python3.
+Dictionary are represented with { } parantheses. There are certain properties of it as mentioned;
+Dictionary always come with set / pair of representation.
+Dictionary are defined with Key and an associated value with it.
+Dictionary keys are unique by nature
+Dicitonary keys are used to extract associated values
+Dictionary is not ordered.
